@@ -2,9 +2,9 @@ import React from 'react'
 import { Route, Link } from 'react-router-dom'
 import { connect } from 'react-redux'
 import App from './App'
-import { logout, getUserData } from './Auth.roudux'
+import { logout, getUserData } from './Auth.redux'
 import { Redirect } from 'react-router';
-import { WingBlank, Button, TabBar } from 'antd-mobile'
+import { WingBlank, Button } from 'antd-mobile'
 import './config'
 
 function Erying() {

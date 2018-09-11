@@ -107,7 +107,7 @@
     ]
   },
   "eslintConfig": {
-    "extends": "react-demo-app"
+    "extends": "react-app"
   },
   "proxy": "http://localhost:8081",
   "devDependencies": {

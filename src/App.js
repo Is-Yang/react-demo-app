@@ -1,6 +1,6 @@
 import React from 'react'
 import { connect } from 'react-redux' // Connect负责从外部获取组件需要的参数
-import { addGUN, removeGUN, addGunAsync } from './index.roudux'
+import { addGUN, removeGUN, addGunAsync } from './index.redux'
 import { WhiteSpace, Button } from 'antd-mobile'
 // const mapStatetoProps = (state) => {
 //     return { num: state }

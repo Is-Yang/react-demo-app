@@ -1,6 +1,6 @@
 import React from 'react'
 import { connect } from 'react-redux'
-import { login } from './Auth.roudux'
+import { login } from './Auth.redux'
 import { Redirect } from 'react-router'
 import { WingBlank, Button } from 'antd-mobile'
 
